@@ -1,0 +1,22 @@
+.form-login{
+    border-radius: 10px;
+    border-top: 3px solid #F68634;
+    border-bottom: 3px solid #F68634;
+    width: 30%;
+}
+.login-box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+button.btn{
+    background-color: #F68634;
+    color: white;
+    float: right;
+}
+p a{
+    color: black;
+}
+p a:hover {
+    color: #F68634;
+}
