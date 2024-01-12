@@ -1,0 +1,39 @@
+.infor{
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    text-transform: uppercase;
+}
+
+.text{
+font-weight: bold;
+font-size: larger;
+}
+
+.money{
+    color: red;font-weight: bold;
+    font-size: larger;
+    text-align: right;
+}
+
+.caption-table{
+    font-weight: bold;
+    font-size: larger;
+}
+.confirm{
+    display: flex;
+    justify-content: center;
+}
+.form-group{
+    width: 50%;
+}
+/* table th{
+    text-align: center;
+}
+table td {
+    text-align: center;
+}
+table td.tuition {
+    text-align: right;
+    width: 300px;
+} */

@@ -1,0 +1,16 @@
+button.btn-checkout{
+    border:none;
+    padding: 5px 10px;
+    background-color: #0066B1;
+    border-radius: 10px;
+    color: white;
+}
+button.btn-checkout:hover {
+    background-color: #f76903;
+}
+/* payment-confirm */
+.form-confirm{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
